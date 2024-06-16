@@ -4,9 +4,9 @@
 
 int main()
 {
-  const int WINDOW_WIDTH = 600;
-  const int WINDOW_HEIGHT = 600;
-  const int CELL_SIZE = 20;
+  const int WINDOW_WIDTH = 750;
+  const int WINDOW_HEIGHT = 750;
+  const int CELL_SIZE = 15;
   int FPS = 12; //It is a upper limit of frames
   Color GREY = {29,29,29,255};// struct raylib_Color = {red, green, blue, alpha} >=255
 

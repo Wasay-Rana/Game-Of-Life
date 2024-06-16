@@ -4,6 +4,8 @@
 "Life's but a walking shadow, a poor player that struts and frets his hour upon the stage and then is heard no more. It is a tale told by an idiot, full of sound and fury, signifying nothing." 
 — William Shakespeare, *Macbeth*
 
+![Game of Life Example](images/Example_Image.png)
+
 Conway's Game of Life mirrors this quote by representing life as a series of simple rules that can lead to complex and often unpredictable behaviors. This project, developed by Muhammad Wasay, serves as both a fascinating exploration of these patterns and a practical application of Object-Oriented Programming (OOP) principles. The intuitive mouse and keyboard controls make interacting with the simulation an engaging experience.
 
 ## Features

@@ -7,7 +7,7 @@ void Grid::Draw()
   {
     for (int column = 0; column < columns; column++)
     {
-      Color color = cells[row][column] ? (Color){204, 0, 102, 255} : (Color){55, 55, 55, 255}; // Change your colours from here
+      Color color = cells[row][column] ? (Color){255, 0, 102, 255} : (Color){55, 55, 55, 255}; // Change your colours from here
       DrawRectangle(column * cellSize, row * cellSize, cellSize - 1, cellSize - 1, color);
     }
   }
