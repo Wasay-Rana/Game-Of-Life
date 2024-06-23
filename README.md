@@ -23,8 +23,8 @@ Conway's Game of Life mirrors this quote by representing life as a series of sim
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/GameOfLife.git
-   cd GameOfLife
+   git clone https://github.com/Wasay-Rana/Game-Of-Life.git
+   cd Game-Of-Life
    ```
 2. Install Raylib (if not already installed):
    ```sh
